@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1085452724063",
+    "firebase_url": "https://witneyxo-c9eea.firebaseio.com",
+    "project_id": "witneyxo-c9eea",
+    "storage_bucket": "witneyxo-c9eea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085452724063:android:23bc474c78161a3d",
+        "android_client_info": {
+          "package_name": "com.witneycarson.witneyxo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085452724063-tgp3e8dnqh311od9mi8crngnao75moj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT8kE2WU2-4NnppPgdrq2wbvQHt3HZZ9Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
